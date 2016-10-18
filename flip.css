@@ -1,3 +1,6 @@
+/*Used from https://davidwalsh.name/css-flip by Anthony Proctor*/
+
+
 /* entire container, keeps perspective */
 .flip-container {
 	perspective: 1000px;
